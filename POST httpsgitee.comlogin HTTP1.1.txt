@@ -1,0 +1,27 @@
+POST https://gitee.com/login HTTP/1.1
+Host: gitee.com
+Connection: keep-alive
+Content-Length: 394
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: https://gitee.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, 
+like Gecko) Chrome/91.0.4472.101 Safari/537.36
+Accept: 
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,imag
+e/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://gitee.com/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+encrypt_key=password&utf8=%E2%9C%93&authenticity_token=36ZqO9tglSN6EB6pF6f2Gt%2B
+dalgkbpTDUsJC5OER7w8%3D&redirect_to_url=%2FHGtz2222&user%5Blogin%5D=HGtz2222&enc
+rypt_data%5Buser%5Bpassword%5D%5D=Hy2gjJ60312Ss12jSe21GMLPEb766tAhCygL281FLRMpiz
+xJVaWGOPlQF7lZhelab1HS2vBiwfBo5C7BnR5ospoBiK1hR6jNXv1lesaYifv9dP1iRC6ozLLMszo%2F
+aRh5j5DeYRyKcE0QJjXRGEDg4emXEK1LHVY4M1uqzFS0W58%3D&user%5Bremember_me%5D=0
